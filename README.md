@@ -13,3 +13,6 @@ The purpose of this personal changelog was to keep a visual record of my progres
 5. Yoga every Tuesday
 6. Get 7-8 hours of sleep every night
 
+***
+
+##### Monday Nov. 4th, 2019:
