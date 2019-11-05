@@ -16,3 +16,9 @@ The purpose of this personal changelog was to keep a visual record of my progres
 ***
 
 ##### Monday Nov. 4th, 2019:
+- [ ] Go back and redo select Prime assignments
+- [x] Setup GitHub for 30 Day Github Challenge
+- [x] Begin keto diet/intermittent fasting
+- [x] Select Percipio channel for this week (Software Develpoment Core Concepts)
+- [x] Began book from To-Read booklist (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
+- [x] Got 7 hours of sleep
