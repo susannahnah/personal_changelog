@@ -30,3 +30,4 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Prep keto-friendly food for week, drink lots of fluids
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got 5 hours of sleep :zzz:
+- [ ] Yoga on Tuesdays
