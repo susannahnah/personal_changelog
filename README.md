@@ -26,6 +26,7 @@ The purpose of this personal changelog was to keep a visual record of my progres
 
 ##### Tues Nov. 5th, 2019:
 - [X] Go back and redo select Prime assignments (week 3 - set up redo repo, watch videos)
+- [ ] Continue Percipio channel for this week (Software Develpoment Core Concepts)
 - [x] Prep keto-friendly food for week, drink lots of fluids
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got ___ hours of sleep
