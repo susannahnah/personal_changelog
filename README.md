@@ -31,8 +31,8 @@ The purpose of this personal changelog was to keep a visual record of my progres
 
 
 ##### Wed Nov. 6th, 2019:
-- [X] Completed Prime assignment (week 3 - set up redo repo, watch videos)
+- [X] Completed Prime assignment (week 3 - arrays, for/while, for...of loops)
 - [ ] Continue Percipio channel for this week (Software Develpoment Core Concepts)
 - [x] Eat keto-friendly food for week, drink lots of fluids
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
-- [x] Got 7 hours of sleep 
+- [x] Got 5 hours of sleep :zzz: 
