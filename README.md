@@ -1,6 +1,3 @@
-Github 30 day challenge
-
-
 ## Overview ##
 The purpose of this personal changelog was to keep a visual record of my progress and growth this month - not just as a developer, but also physically and mentally.  
 
@@ -31,3 +28,11 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got 5 hours of sleep :zzz:
 - [ ] Yoga on Tuesdays
+
+
+##### Wed Nov. 6th, 2019:
+- [X] Completed Prime assignment (week 3 - set up redo repo, watch videos)
+- [ ] Continue Percipio channel for this week (Software Develpoment Core Concepts)
+- [x] Eat keto-friendly food for week, drink lots of fluids
+- [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
+- [x] Got 7 hours of sleep 
