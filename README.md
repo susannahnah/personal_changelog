@@ -20,6 +20,7 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Began book from To-Read booklist (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got 7 hours of sleep
 
+#
 
 ##### Tues Nov. 5th, 2019:
 - [X] Go back and redo select Prime assignments (week 3 - set up redo repo, watch videos)
@@ -29,6 +30,7 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Got 5 hours of sleep :zzz:
 - [ ] Yoga on Tuesdays
 
+#
 
 ##### Wed Nov. 6th, 2019:
 - [X] Completed Prime assignment (week 3 - arrays, for/while, for...of loops)
@@ -37,6 +39,7 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got 5 hours of sleep :zzz: 
 
+#
 
 ##### Thurs Nov. 7th, 2019:
 - [ ] Started new Prime Assignment
@@ -46,6 +49,7 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Got 4 hours of sleep :thumbsdown: 
 - [x] Hung out with friends and saw an awesome Korean movie (Parasite) because all work and no play makes Susannah a dull girl 
 
+#
 
 ##### Fri Nov. 8th, 2019:
 - [x] Start new Prime Assignment (Car Ramp Project)
