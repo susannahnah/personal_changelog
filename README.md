@@ -43,5 +43,5 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [ ] Continue Percipio channel for this week (Software Develpoment Core Concepts)
 - [x] Eat keto-friendly food for week, drink lots of fluids
 - [x] Finished reading mediocre-at-best book, started new book (The White Princess)
-- [ ] Got 4 hours of sleep :thumbsdown: 
+- [x] Got 4 hours of sleep :thumbsdown: 
 - [x] Hung out with friends and saw an awesome Korean movie (Parasite) because all work and no play makes Susannah a dull girl 
