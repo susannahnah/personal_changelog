@@ -45,3 +45,10 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Finished reading mediocre-at-best book, started new book (The White Princess)
 - [x] Got 4 hours of sleep :thumbsdown: 
 - [x] Hung out with friends and saw an awesome Korean movie (Parasite) because all work and no play makes Susannah a dull girl 
+
+
+##### Fri Nov. 8th, 2019:
+- [x] Start new Prime Assignment (Car Ramp Project)
+- [x] Complete Percipio Unit (Software Develpoment Core Concepts - C# Programming Structure, Methods, and Variables)
+- [x] Continue book (White Princess)
+- [x] Eat keto-friendly food, no sugar, intermittent fasting, drink lots of fluids
