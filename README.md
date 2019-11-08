@@ -36,3 +36,12 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Eat keto-friendly food for week, drink lots of fluids
 - [x] Continue reading mediocre-at-best book (The Man From the Train: The Solving of a Century-Old Serial Killer Mystery)
 - [x] Got 5 hours of sleep :zzz: 
+
+
+##### Thurs Nov. 7th, 2019:
+- [ ] Started new Prime Assignment
+- [ ] Continue Percipio channel for this week (Software Develpoment Core Concepts)
+- [x] Eat keto-friendly food for week, drink lots of fluids
+- [x] Finished reading mediocre-at-best book, started new book (The White Princess)
+- [ ] Got 4 hours of sleep :thumbsdown: 
+- [x] Hung out with friends and saw an awesome Korean movie (Parasite) because all work and no play makes Susannah a dull girl 
