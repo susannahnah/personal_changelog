@@ -56,3 +56,12 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Complete Percipio Unit (Software Develpoment Core Concepts - C# Programming Structure, Methods, and Variables)
 - [x] Continue book (White Princess)
 - [x] Eat keto-friendly food, no sugar, intermittent fasting, drink lots of fluids
+- [x] Got 6 hours of sleep 
+
+#
+
+##### Sat Nov. 9th, 2019:
+- [x] Continued work on Prime Assignment (Car Ramp Project - PW Week 4)
+- [x] Began Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continue book (White Princess)
+- [ ] Ate a bowl of pho because I wanted pho.  Went grocery shopping for keto-friendly groceries
