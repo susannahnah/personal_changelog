@@ -82,3 +82,11 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continue book (White Princess)
 - [ ] Ate keto diet, didn't cheat
 - [x] Got 6 hours of sleep
+
+#
+
+##### Tues Nov. 12th, 2019:
+- [x] Continued work on Prime Assignment (Car Ramp Project - PW Week 4)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Finished book (White Princess)
+- [x] begun new book (Munich by Robert Harris)
