@@ -72,4 +72,13 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
 - [x] Continue book (White Princess)
 - [ ] Ate another bowl of pho because I wanted pho.  Made keto meals for week
-- [x] Got 7 hours of slep
+- [x] Got 7 hours of sleep
+
+#
+
+##### Mon Nov. 11th, 2019:
+- [ ] Continued work on Prime Assignment (Car Ramp Project - PW Week 4)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continue book (White Princess)
+- [ ] Ate keto diet, didn't cheat
+- [x] Got 6 hours of sleep
