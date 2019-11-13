@@ -90,3 +90,14 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
 - [x] Finished book (White Princess)
 - [x] begun new book (Munich by Robert Harris)
+- [ ] got 4 hours of sleep :zzz: :thumbsdown:
+- [ ] Ate keto diet, didn't cheat
+
+#
+
+##### Wed Nov. 13th, 2019:
+- [x] Start new Prime Assignment (Object Literals - PW Week 5)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] continue book (Munich by Robert Harris) *highly recommend*
+- [x] Ate keto diet, didn't cheat
+
