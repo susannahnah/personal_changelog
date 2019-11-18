@@ -118,3 +118,22 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [ ] Continued Percipio Unit (Languages - Javascript Fundamentals)
 - [x] Continue book (Crazy Rich Asians)
 - [x] Ate keto diet, didn't cheat
+- [x] got 7 hours of sleep!! :thumbsup:
+
+#
+
+##### Sat Nov. 16th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [ ] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Finished book (Crazy Rich Asians), began The King's Curse
+- [x] Ate keto diet, didn't cheat
+- [x] got 8 hours of sleep!! :thumbsup:
+
+#
+
+##### Sun Nov. 17th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [ ] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continued The King's Curse
+- [ ] Ate keto diet, didn't cheat
+- [x] got 7 hours of sleep!! :thumbsup:
