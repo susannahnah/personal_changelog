@@ -137,3 +137,12 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continued The King's Curse
 - [ ] Ate keto diet, didn't cheat
 - [x] got 7 hours of sleep!! :thumbsup:
+
+#
+
+##### Mon Nov. 18th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continued The King's Curse
+- [ ] Ate keto diet, didn't cheat
+- [x] got 6 hours of sleep
