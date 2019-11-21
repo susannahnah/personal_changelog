@@ -146,3 +146,29 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [x] Continued The King's Curse
 - [ ] Ate keto diet, didn't cheat
 - [x] got 6 hours of sleep
+
+#
+
+##### Tues Nov. 19th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continued The King's Curse
+- [x] Ate keto diet, didn't cheat
+- [x] got 4 hours of sleep :thumbsdown:
+
+#
+
+##### Wed Nov. 20th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Continued The King's Curse
+- [ ] Thanksgiving lunch at work, totally cheated
+- [x] got 5 hours of sleep 
+
+#
+
+##### Thurs Nov. 21st, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
+- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] Finished The King's Curse, began Wolf Hall
+- [ ] Potluck at work, totally cheated
