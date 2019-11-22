@@ -174,3 +174,14 @@ The purpose of this personal changelog was to keep a visual record of my progres
 - [ ] Potluck at work, totally cheated
 - [ ] Got 6 hours of sleep...not bad...? 
 - [x] Downloaded and tried out various coding lessons for my iPhone 
+
+#
+
+##### Fri Nov. 22nd, 2019:
+- [x] Continued Prime Assignment (Object Literals - PW Week 5, trying stretch)
+- [x] FINISHED Percipio Unit (Languages - Javascript Fundamentals)
+- [x] started Percipio Unit (JavaScript Data, Decision Making, & Arrays)
+- [x] Continue Wolf Hall
+- [x] ate Keto
+
+- [x] Downloaded and tried out various coding lessons for my iPhone 
