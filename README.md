@@ -169,6 +169,8 @@ The purpose of this personal changelog was to keep a visual record of my progres
 
 ##### Thurs Nov. 21st, 2019:
 - [ ] Continued Prime Assignment (Object Literals - PW Week 5)
-- [x] Continued Percipio Unit (Languages - Javascript Fundamentals)
+- [x] FINISHED Percipio Unit (Languages - Javascript Fundamentals)
 - [x] Finished The King's Curse, began Wolf Hall
 - [ ] Potluck at work, totally cheated
+- [ ] Got 6 hours of sleep...not bad...? 
+- [x] Downloaded and tried out various coding lessons for my iPhone 
