@@ -177,11 +177,15 @@ The purpose of this personal changelog was to keep a visual record of my progres
 
 #
 
-##### Fri Nov. 22nd, 2019:
-- [x] Continued Prime Assignment (Object Literals - PW Week 5, trying stretch)
-- [x] FINISHED Percipio Unit (Languages - Javascript Fundamentals)
-- [x] started Percipio Unit (JavaScript Data, Decision Making, & Arrays)
+##### Sat Nov. 23nd - Tues Nov. 26th, 2019:
+- Family Emergency, was unable to do any coding
+
+#
+
+##### Wed Nov. 27th, 2019:
+- [ ] Continued Prime Assignment (Object Literals - PW Week 5)
 - [x] Continue Wolf Hall
 - [x] ate Keto
+- [ ] Got 6 hours of sleep
+- [x] Using various apps on iPhone for coding practice (Learn Ruby, Linux Academy, Grasshopper, Enki)
 
-- [x] Downloaded and tried out various coding lessons for my iPhone 
